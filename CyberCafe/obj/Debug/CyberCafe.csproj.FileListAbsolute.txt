@@ -1,0 +1,6 @@
+D:\Cyber_cafe\CyberCafe\CyberCafe\obj\Debug\CyberCafe.csproj.AssemblyReference.cache
+D:\Cyber_cafe\CyberCafe\CyberCafe\obj\Debug\CyberCafe.Form.resources
+D:\Cyber_cafe\CyberCafe\CyberCafe\obj\Debug\CyberCafe.FormLogin.resources
+D:\Cyber_cafe\CyberCafe\CyberCafe\obj\Debug\CyberCafe.Properties.Resources.resources
+D:\Cyber_cafe\CyberCafe\CyberCafe\obj\Debug\CyberCafe.csproj.GenerateResource.cache
+D:\Cyber_cafe\CyberCafe\CyberCafe\obj\Debug\CyberCafe.csproj.CoreCompileInputs.cache

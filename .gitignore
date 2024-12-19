@@ -1,0 +1,3 @@
+git rm -r --cached .vs
+git add .
+git commit -m "Exclude .vs folder from Git"
